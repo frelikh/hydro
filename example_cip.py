@@ -7,7 +7,7 @@ example_lf.py
 '''
 
 from __future__ import division, print_function, absolute_import, unicode_literals
-from cip import SodCIP
+from cip import Sod
 
-cip = SodCIP(CSL2 = False)
+cip = Sod()
 cip.Animate(thin = 10)

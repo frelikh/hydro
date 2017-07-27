@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 '''
-sod.py
-------
+sod_analytic.py
+---------------
 
 Analytic solution to the Sod shock tube problem, borrowed from
 https://gitlab.com/fantaz/simple_shock_tube_calculator
